@@ -1,0 +1,28 @@
+/* #container{
+    width: 1100px;
+    height: 700px;
+    position: relative;
+    background-color: rgb(62, 81, 141)
+
+}
+
+#animate{
+    width: 50px;
+    height: 50px ;
+    border-radius: 50%;
+    position: absolute;
+    background-color: rgb(252, 90, 244);
+}
+
+
+button{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    border: 3px solid rgb(10, 27, 122);
+    background: #4b6cb7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        color: #fff;
+    margin-left: 150px;
+} */
